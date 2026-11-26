@@ -5,4 +5,12 @@
         "package_name": "com.entregalog.app",
         "sha256_cert_fingerprints": ["38:5B:DE:36:44:57:E2:33:A1:24:7F:CD:8B:09:C1:A6:32:08:F2:CD:01:26:19:B2:7C:17:F1:DF:07:40:8C:DD"]
       }
+    },
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.custocerto.app",
+        "sha256_cert_fingerprints": ["4D:85:D7:1F:90:FB:2B:B3:8D:EF:7C:0A:ED:99:F5:80:7B:81:51:17:3B:8E:03:D7:FD:D6:1B:E8:19:31:38:FB"]
+      }
     }]
